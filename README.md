@@ -7,9 +7,9 @@
 * 物理18 戴智恆<br />
 
 ## 參考書籍：<br />
-Neuronal Dynamics<br />
-From single neurons to networks and models of cognition<br />
-http://neuronaldynamics.epfl.ch/
+* Neuronal Dynamics<br />
+  From single neurons to networks and models of cognition<br />
+  <http://neuronaldynamics.epfl.ch/>
 ## 研究方向
 1.	SR
 2.	改變雜訊的強度
@@ -19,7 +19,7 @@ http://neuronaldynamics.epfl.ch/
 6.	(thermo phy)
 7.	不同類型的訊號 sin wave/ square wave
 
-#參考資料
+* 參考資料
 課本http://neuronaldynamics.epfl.ch/online/Ch3.S1.html
 
 
