@@ -6,8 +6,6 @@
 物理20 葉百祥<br />
 物理18 戴智恆<br />
 
-123
-
 ## 參考書籍：<br />
 Neuronal Dynamics<br />
 From single neurons to networks and models of cognition<br />
