@@ -1,16 +1,16 @@
 # Group-5
-小組成員：<br />
+## **小組成員：**
 * 物理19 鄭力珊<br />
 * 物理20 黃紹倫<br />
 * 物理20 李展誼<br />
 * 物理20 葉百祥<br />
 * 物理18 戴智恆<br />
 
-## 參考書籍：<br />
+## 參考書籍：
 * ***Neuronal Dynamics***<br />
-  **From single neurons to networks and models of cognition**<br />
+ **From single neurons to networks and models of cognition**<br />
   <http://neuronaldynamics.epfl.ch/>
-## 研究方向
+## **研究方向**
 1.	SR
 2.	改變雜訊的強度
 3.	改變雜訊的頻率
@@ -22,9 +22,7 @@
 * **參考資料**<br />
 課本 <http://neuronaldynamics.epfl.ch/online/Ch3.S1.html>
 
-
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-
+## **程式碼**
     import scipy as sp
     import pylab as plt
     from scipy.integrate import odeint
