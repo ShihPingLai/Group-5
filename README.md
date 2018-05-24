@@ -6,15 +6,6 @@
 * 物理20 葉百祥<br />
 * 物理18 戴智恆<br />
 
-## 參考書籍：
-* ***Neuronal Dynamics***<br />
- ***From single neurons to networks and models of cognition***<br />
- *By Wulfram Gerstner, Werner M. Kistler, Richard Naud and Liam Paninski*<br />
-  <http://neuronaldynamics.epfl.ch/>
-* ***Theoretical Neuroscience***<br />
- ***Computational and Mathematical Modeling of Neural Systems***<br />
- *By Laurence F. Abbott and Peter Dayan*<br />
-  <https://mitpress.mit.edu/books/theoretical-neuroscience>
 ## **研究方向**
 1.	SR
 2.	改變雜訊的強度
@@ -33,3 +24,13 @@
   用小音量播放讓同學辨識
 3.  Sine wave <br />
   以亮暗呈現(類似水波槽)，製作有雜訊以及沒有雜訊的動畫圖形。
+
+## 參考書籍：
+* ***Neuronal Dynamics***<br />
+ ***From single neurons to networks and models of cognition***<br />
+ *By Wulfram Gerstner, Werner M. Kistler, Richard Naud and Liam Paninski*<br />
+  <http://neuronaldynamics.epfl.ch/>
+* ***Theoretical Neuroscience***<br />
+ ***Computational and Mathematical Modeling of Neural Systems***<br />
+ *By Laurence F. Abbott and Peter Dayan*<br />
+  <https://mitpress.mit.edu/books/theoretical-neuroscience>
