@@ -8,8 +8,13 @@
 
 ## 參考書籍：
 * ***Neuronal Dynamics***<br />
- **From single neurons to networks and models of cognition**<br />
-  <http://neuronaldynamics.epfl.ch/>
+ ***From single neurons to networks and models of cognition***<br />
+ *By Wulfram Gerstner, Werner M. Kistler, Richard Naud and Liam Paninski*<br />
+  <http://neuronaldynamics.epfl.ch/>
+* ***Theoretical Neuroscience***<br />
+ ***Computational and Mathematical Modeling of Neural Systems***<br />
+ *By Laurence F. Abbott and Peter Dayan*<br />
+  <https://mitpress.mit.edu/books/theoretical-neuroscience>
 ## **研究方向**
 1.	SR
 2.	改變雜訊的強度
