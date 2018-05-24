@@ -30,6 +30,7 @@
  ***From single neurons to networks and models of cognition***<br />
  *By Wulfram Gerstner, Werner M. Kistler, Richard Naud and Liam Paninski*<br />
   <http://neuronaldynamics.epfl.ch/>
+  
 *  ***Theoretical Neuroscience***<br />
  ***Computational and Mathematical Modeling of Neural Systems***<br />
  *By Laurence F. Abbott and Peter Dayan*<br />
