@@ -35,3 +35,10 @@
  ***Computational and Mathematical Modeling of Neural Systems***<br />
  *By Laurence F. Abbott and Peter Dayan*<br />
   <https://mitpress.mit.edu/books/theoretical-neuroscience>
+  
+## **使用說明：**
+* 波形動畫：<br />
+需先安裝 *ffmpeg*<br />
+安裝方法：<br />
+<https://github.com/adaptlearning/adapt_authoring/wiki/Installing-FFmpeg><br />
+安裝完畢並重新啟動電腦後即可執行
