@@ -22,10 +22,10 @@
 1.  HH model 加雜訊
 2.  音樂加雜訊<br />
   用小音量播放讓同學辨識<br />
-  Music/
-3.  Sine wave <br />
+  Music資料夾
+3.  Sine wave <br />
   以亮暗呈現(類似水波槽)，製作有雜訊以及沒有雜訊的動畫圖形。<br />
-  WaveAnimation
+  WaveAnimation資料夾
 
 ## 參考書籍：
 *  ***Neuronal Dynamics***<br />
