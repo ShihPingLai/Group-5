@@ -44,3 +44,9 @@
 安裝方法：<br />
 <https://github.com/adaptlearning/adapt_authoring/wiki/Installing-FFmpeg><br />
 安裝完畢並重新啟動電腦後即可執行
+* 水波槽模擬：(無法在Jupyter Notebook執行)<br />
+需安裝套件ripple tank<br />
+可以在prompt中使用以下指令安裝：<br />
+```
+pip install rippleTank
+```
