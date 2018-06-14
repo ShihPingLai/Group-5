@@ -21,11 +21,11 @@
 ## **Demo 方式**
 1.  HH model 加雜訊
 2.  音樂加雜訊<br />
-  用小音量播放讓同學辨識<br />
+  播放加雜訊後的音樂檔<br />
   Music資料夾
-3.  Sine wave <br />
-  以亮暗呈現(類似水波槽)，製作有雜訊以及沒有雜訊的動畫圖形。<br />
-  WaveAnimation資料夾
+3.  Sine wave in rippletank simulation <br />
+  以亮暗呈現類似水波槽俯視視角的動畫，分別展示沒有雜訊以及有雜訊的動畫圖形。<br />
+  Ripple Tank Simulation資料夾
 
 ## 參考書籍：
 *  ***Neuronal Dynamics***<br />
@@ -39,14 +39,7 @@
   <https://mitpress.mit.edu/books/theoretical-neuroscience>
   
 ## **使用說明：**
-* 波形動畫：<br />
-需先安裝 *ffmpeg*<br />
-安裝方法：<br />
-<https://github.com/adaptlearning/adapt_authoring/wiki/Installing-FFmpeg><br />
-安裝完畢並重新啟動電腦後即可執行
-* 水波槽模擬：(無法在Jupyter Notebook執行)<br />
-需安裝套件ripple tank<br />
-可以在prompt中使用以下指令安裝：<br />
-```
-pip install rippleTank
-```
+* 水波槽模擬：<br />
+需先將Ripple Tank Simulation資料夾中的檔案下載下來，分別有無雜訊、0.1倍強度高斯白雜訊、1倍強度高斯白雜訊、2倍強度高斯白雜訊、以及10倍強度高斯白雜訊<br />
+以Python 3執行檔案，即可看到模擬水波槽的動畫。<br />
+在大約加上2倍強度的高斯白雜訊時，水波槽的動畫會如同真實的水波一般，產生立體感。以應用來說，像是海面的影像，距離較遠的話僅能看出亮暗變化，若加上雜訊後使其產生隨機共振，可強其對於海面的波浪辨識度。
