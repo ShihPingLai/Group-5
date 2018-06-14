@@ -15,9 +15,6 @@
 6.	(thermo phy)
 7.	不同類型的訊號 sin wave/ square wave
 
-* **參考資料**<br />
-課本 <http://neuronaldynamics.epfl.ch/online/Ch3.S1.html>
-
 ## **Demo 方式**
 1.  HH model 加雜訊
 2.  音樂加雜訊<br />
